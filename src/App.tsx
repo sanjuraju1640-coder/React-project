@@ -1,9 +1,10 @@
-import NameGreeting from './components/NameGreeting'
+import Searchlogger from "./components/searchlogger";
 
 function App() {
   return(
     <div>
-      <NameGreeting/>
+      <Searchlogger />
+
     </div>
   )
 }
