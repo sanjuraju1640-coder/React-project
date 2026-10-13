@@ -1,9 +1,9 @@
-import Searchlogger from "./components/searchlogger";
+import PageInfo from './components/pageInfo';
 
 function App() {
   return(
     <div>
-      <Searchlogger />
+      <PageInfo />
 
     </div>
   )
